@@ -1,3 +1,8 @@
 secret.txt
+fix.txt
+git+rm+コマンドの挙動の補足.txt
+Gitコマンド集.pdf
+ブランチとマージの補足.txt
+レクチャー内容の修正.txt
 # ".gitignore” ファイルに指定すると　バージョン管理から外すことができる
 #
